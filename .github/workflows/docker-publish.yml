@@ -1,4 +1,4 @@
-ame: Docker Publish
+name: Docker Publish
 
 on:
   schedule:
